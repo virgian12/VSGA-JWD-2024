@@ -1,8 +1,11 @@
+
 // hitung harga paket wisata
 function updateHargaPaket() {
     nilai=Number(document.getElementById("nama-paket").value); //Number digunakan untuk mengmbil nilai dari id "nama-paket"
     elemenHargaPaket=document.getElementById("harga-paket"); //akses harga paket wisata by Id
     harga=0; //inisialisasi harga awal
+
+    
 
     // logika perhitungan
     if (nilai==1){

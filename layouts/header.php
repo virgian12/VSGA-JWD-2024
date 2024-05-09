@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container mt-3">
-        <div class="px-5 py-4 bg-secondary text-white rounded">
+        <div class="px-5 py-4 bg-secondary text-white rounded bg-image">
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <h1>Pariwisata Indonesia</h1>
